@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "2019 Portfolio Revamp",
-    "currentPage": "html.html",
+    "currentPage": " .html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 182,
+    "uniqCompNum": 196,
     "versionPublish": "4.10.6",
     "theme": {
       "name": "mobirise4",
@@ -69,7 +69,7 @@
       "settings": {
         "meta_descr": "Bluesky redesign of Home Depots Digital Decor landing page.",
         "title": "HD-DD-Redesign",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -788,7 +788,7 @@
       "settings": {
         "meta_descr": "Bluesky redesign of Home Depots Digital Decor landing page.",
         "title": "ATT_Comps",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1323,7 +1323,7 @@
       "settings": {
         "meta_descr": "UI Design for FiveBox",
         "title": "fivebox",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1995,7 +1995,7 @@
       "settings": {
         "meta_descr": "A melting pot of things that hit the cutting room floor, or don't really fit elsewhere.",
         "title": "random work",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2747,7 +2747,7 @@
       "settings": {
         "meta_descr": "Home Depot research, analysis and design for site-wide space calculators",
         "title": "hd-calculators",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3834,7 +3834,7 @@
       "settings": {
         "meta_descr": "Freelance Infographic aimed at Atlanta's home buying millenials",
         "title": "npr",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4412,7 +4412,7 @@
       "settings": {
         "meta_descr": "Freelance project and proposal for Korus Acrylic Flooring",
         "title": "korus",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -5088,7 +5088,7 @@
         }
       ]
     },
-    "html.html": {
+    " .html": {
       "settings": {
         "main": true,
         "title": "TVKdesign",
