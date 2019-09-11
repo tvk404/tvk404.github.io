@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "2019 Portfolio Revamp",
-    "currentPage": " .html",
+    "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 196,
     "versionPublish": "4.10.6",
@@ -5088,7 +5088,7 @@
         }
       ]
     },
-    " .html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "TVKdesign",
